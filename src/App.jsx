@@ -34,8 +34,8 @@ export default function App() {
   return (
     <main className="page">
       <header className="hero">
-        <p className="eyebrow">OPEN SOURCE STUDIO · WEEK 12</p>
-        <h1>React Hooks Playground</h1>
+        <p className="eyebrow">OPEN SOURCE STUDIO · WEEK 12 · 22300649</p>
+        <h1>React Hooks Playground assignment 12</h1>
         <p>useEffect · Cleanup · useRef — 4개의 독립된 Lab</p>
       </header>
 
@@ -63,6 +63,8 @@ export default function App() {
       </section>
       <footer>
         랩을 전환하면 이전 Lab은 언마운트됩니다. Timer Cleanup을 확인해 보세요.
+        <br></br>
+        22300649 assignment 12
       </footer>
     </main>
   );
